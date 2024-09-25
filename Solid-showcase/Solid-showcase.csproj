@@ -10,7 +10,6 @@
 
     <ItemGroup>
       <Folder Include="Solid\5-Dependency-Inversion\" />
-      <Folder Include="Solid\4-Interface-seggregation\" />
     </ItemGroup>
 
 </Project>
