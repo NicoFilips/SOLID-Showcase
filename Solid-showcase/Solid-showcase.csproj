@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Solid\5-Dependency-Inversion\" />
+      <Folder Include="SOLID\5-Dependency-Inversion\" />
     </ItemGroup>
 
 </Project>
