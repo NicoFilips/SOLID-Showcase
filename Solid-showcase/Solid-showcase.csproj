@@ -11,8 +11,7 @@
     <ItemGroup>
       <Folder Include="Solid\5-Dependency-Inversion\" />
       <Folder Include="Solid\4-Interface-seggregation\" />
-      <Folder Include="Solid\3-Liskovsche\" />
-      <Folder Include="Solid\2-Open-Closed\" />
+      <Folder Include="Solid\3-Liskov-Substitution\" />
     </ItemGroup>
 
 </Project>
